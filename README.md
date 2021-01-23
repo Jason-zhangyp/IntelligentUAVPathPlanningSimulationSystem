@@ -40,7 +40,7 @@
 使用该软件的优点是吸收国外已获得成果，将运行环境从Linux系统重新编译移植到Windows等其他操作系统，除仿真三维环境模块外均使用Python语言编写，程序易维护、易修改。通过Pyqt5编写的软件界面集成了软件各个模块，加入后台提示功能，设计智能控制脚本简化系统使用流程，联动FlightGear模拟器、MissionPlanner地面站程序进行可视化，以提高真实无人机飞行路径精准度、指定飞行计划为根本目的。
 
 ## 四、感谢<br>
-**CSDN：**
+**CSDN：**<br>
 https://blog.csdn.net/qinguoxiaoziyangyue/article/details/77712064<br>
 https://blog.csdn.net/guojunxiu/article/details/79158843<br>
 https://blog.csdn.net/huihut/article/details/86587782<br>
@@ -57,6 +57,6 @@ https://gitee.com/wwy2018/XTDrone<br>
 **Github：**
 https://github.com/dhondta/dronesploit<br>
 
-简书地址：<br>
+简书地址：https://www.jianshu.com/p/b1e6b2efb96f<br>
 Gitee：<br>
 欢迎star！！！
