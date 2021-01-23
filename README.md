@@ -9,16 +9,25 @@
 ### 3. 代码编写
 ![代码编写](https://upload-images.jianshu.io/upload_images/11477676-99430237636eddc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 4. 多维视图
+#### 二维视图（一）
 ![二维视图（一）](https://upload-images.jianshu.io/upload_images/11477676-ee18d747a10e15ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 二维视图（二）
 ![二维视图（二）](https://upload-images.jianshu.io/upload_images/11477676-b106388223e90c9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 三维视图
 ![三维视图](https://upload-images.jianshu.io/upload_images/11477676-d35cca6b7dc56251.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 5. 无人机控制
+#### 控制台控制
 ![控制台控制](https://upload-images.jianshu.io/upload_images/11477676-85ba41325f9385d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 智能控制
 ![智能控制](https://upload-images.jianshu.io/upload_images/11477676-0a5f03880f5782c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 地面站控制
 ![地面站控制](https://upload-images.jianshu.io/upload_images/11477676-7adb73baeee55dea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 6. 制定飞行任务
+#### 飞行任务（一）
 ![飞行任务（一）](https://upload-images.jianshu.io/upload_images/11477676-e99d85e3d16fec4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![飞行任务（二）](https://upload-images.jianshu.io/upload_images/11477676-ffd111fcf902e18b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 飞行任务（二）
+![飞行任务（二）](https://upload-images.jianshu.io/upload_images/11477676-ffd111fcf902e18b.png?imageMogr2/auto-orient/strip|imageView2/2/w/1057/format/webp)
+#### 飞行任务（三）
 ![飞行任务（三）](https://upload-images.jianshu.io/upload_images/11477676-2609a653c0741d08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 二、解决问题
 
