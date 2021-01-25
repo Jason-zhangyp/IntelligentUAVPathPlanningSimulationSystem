@@ -61,5 +61,5 @@ https://github.com/dhondta/dronesploit<br>
 
 ## 项目链接<br>
 简书地址：https://www.jianshu.com/p/b1e6b2efb96f<br>
-Gitee：<br>
+Gitee：https://gitee.com/wwy2018/IntelligentUAVPathPlanningSimulationSystem<br>
 欢迎star！！！
