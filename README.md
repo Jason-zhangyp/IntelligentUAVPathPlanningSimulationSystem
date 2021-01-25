@@ -2,6 +2,7 @@
 智能无人机路径规划仿真系统是一个具有操作控制精细、平台整合性强、全方向模型建立与应用自动化特点的软件。它以A、B两国在C区开展无人机战争为背景，该系统的核心功能是通过仿真平台规划无人机航线，并进行验证输出，数据可导入真实无人机，使其按照规定路线精准抵达战场任一位置，支持多人多设备编队联合行动。
 ### [视频简介](https://www.yuque.com/u12074055/kb/qqkaw9)
 ## 一、主要特点
+![智能无人机路径规划仿真系统](https://upload-images.jianshu.io/upload_images/11477676-227fe57540b4323e.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/433/format/webp)
 系统以开源无人机仿真平台SITL为支撑，通过FlightGear渲染真实战场环境，集成了动力学模型建模、二维俯视、三维模拟、脚本控制、地面站监控、数据处理等功能，此外，仿真系统支持加载多种全球地图，模拟各大重点地域的三维环境，可应用于全球各处遥感监测的场景中。
 ### 1. 软件界面
 ![软件界面](https://upload-images.jianshu.io/upload_images/11477676-8e8e1baaf5e4765f.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
