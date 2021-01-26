@@ -21,7 +21,7 @@
 #### 控制台控制
 ![控制台控制](https://upload-images.jianshu.io/upload_images/11477676-85ba41325f9385d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 智能控制
-![智能控制](https://upload-images.jianshu.io/upload_images/11477676-0a5f03880f5782c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![智能控制](https://upload-images.jianshu.io/upload_images/11477676-a54088461bdd65e5.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/)
 #### 地面站控制
 ![地面站控制](https://upload-images.jianshu.io/upload_images/11477676-7adb73baeee55dea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 6. 制定飞行任务
