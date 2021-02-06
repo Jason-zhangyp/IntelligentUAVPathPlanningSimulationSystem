@@ -43,7 +43,12 @@
 
 使用该软件的优点是吸收国外已获得成果，将运行环境从Linux系统重新编译移植到Windows等其他操作系统，除仿真三维环境模块外均使用Python语言编写，程序易维护、易修改。通过Pyqt5编写的软件界面集成了软件各个模块，加入后台提示功能，设计智能控制脚本简化系统使用流程，联动FlightGear模拟器、MissionPlanner地面站程序进行可视化，以提高真实无人机飞行路径精准度、指定飞行计划为根本目的。
 
-## 四、感谢<br>
+## 四、扩展<br>
+windows下使用 SITL 模拟多无人机编队请参照下面文章，注意路径要在ArduCopter/下执行测试命令：
+https://blog.csdn.net/jzhd2015/article/details/108987818
+其他扩展插件请等待更新....
+
+## 五、感谢<br>
 **CSDN：**<br>
 https://blog.csdn.net/qinguoxiaoziyangyue/article/details/77712064<br>
 https://blog.csdn.net/guojunxiu/article/details/79158843<br>
